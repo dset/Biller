@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wallenberg.iml" filepath="$PROJECT_DIR$/Wallenberg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallenberg/wallenberg.iml" filepath="$PROJECT_DIR$/wallenberg/wallenberg.iml" />
+    </modules>
+  </component>
+</project>
+
